@@ -1,0 +1,12 @@
+mysql
+sqlalchemy
+python-dotenv
+mysql-connector-python
+pandas
+numpy
+pymysql
+beautifulsoup4
+requests
+html5lib
+mysqlclient
+cryptography
